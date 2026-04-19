@@ -1,6 +1,6 @@
 # Warps & Portals
 
-[Player index](README.md) · [Anchors & Utility](anchors.md) · [Homes](homes.md) · [Random Teleport](rtp.md) · [TPA](tpa.md)
+[Player index](../README.md) · [Anchors & Utility](anchors.md) · [Homes](homes.md) · [Random Teleport](rtp.md) · [TPA](tpa.md)
 
 Warps are named server destinations. Portals are configured travel points that can be entered physically in the world or triggered from the command line.
 
