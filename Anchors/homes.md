@@ -1,6 +1,6 @@
 # Homes
 
-[Player index](README.md) · [Anchors & Utility](anchors.md) · [Warps & Portals](warps-portals.md) · [Random Teleport](rtp.md) · [TPA](tpa.md)
+[Player index](../README.md) · [Anchors & Utility](anchors.md) · [Warps & Portals](warps-portals.md) · [Random Teleport](rtp.md) · [TPA](tpa.md)
 
 Homes are named personal teleport points. Anchors supports normal homes, shared homes, invite-based access, visibility modes, and optional waypoints that can be exposed to other players.
 
