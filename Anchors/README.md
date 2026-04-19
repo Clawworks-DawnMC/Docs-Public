@@ -4,8 +4,8 @@ Anchors is the server travel system. It handles saved anchors, homes, shared hom
 
 ## Pages
 
-- [Anchors & Utility Commands](Anchors/anchors.md)
-- [Homes](Anchors/homes.md)
-- [Warps & Portals](Anchors/warps-portals.md)
-- [Random Teleport](Anchors/rtp.md)
-- [TPA](Anchors/tpa.md)
+- [Anchors & Utility Commands](anchors.md)
+- [Homes](homes.md)
+- [Warps & Portals](warps-portals.md)
+- [Random Teleport](rtp.md)
+- [TPA](tpa.md)
