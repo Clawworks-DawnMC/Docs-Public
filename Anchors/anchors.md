@@ -6,8 +6,8 @@ This section covers the core Anchors command tree plus the general travel utilit
 
 | Command | What it does |
 |---|---|
-| `/anchors help [main|homes|warps|rtp|tpa|admin]` | Shows the built-in help pages for the requested topic. |
-| `/anchor help [main|homes|warps|rtp|tpa|admin]` | Alias of `/anchors help`. |
+| `/anchors help [main\|homes\|warps\|rtp\|tpa\|admin]` | Shows the built-in help pages for the requested topic. |
+| `/anchor help [main\|homes\|warps\|rtp\|tpa\|admin]` | Alias of `/anchors help`. |
 | `/anchors list` | Lists your saved anchor slots and coordinates. |
 | `/anchors info` | Shows your resolved anchor and home slot counts plus anchor-related settings. |
 | `/anchors save` | Forces an anchor save immediately if the server has that command enabled for you. |
