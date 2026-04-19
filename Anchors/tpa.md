@@ -1,6 +1,6 @@
 # TPA
 
-[Player index](README.md) · [Anchors & Utility](anchors.md) · [Homes](homes.md) · [Warps & Portals](warps-portals.md) · [Random Teleport](rtp.md)
+[Player index](../README.md) · [Anchors & Utility](anchors.md) · [Homes](homes.md) · [Warps & Portals](warps-portals.md) · [Random Teleport](rtp.md)
 
 Anchors TPA is a queued teleport request system. You can send requests, accept or deny incoming requests, cancel outgoing requests, or toggle automatic acceptance.
 
