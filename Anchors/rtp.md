@@ -1,6 +1,6 @@
 # Random Teleport
 
-[Player index](README.md) · [Anchors & Utility](anchors.md) · [Homes](homes.md) · [Warps & Portals](warps-portals.md) · [TPA](tpa.md)
+[Player index](../README.md) · [Anchors & Utility](anchors.md) · [Homes](homes.md) · [Warps & Portals](warps-portals.md) · [TPA](tpa.md)
 
 Anchors RTP supports general random teleports, cave teleports, world-targeted teleports, and biome-targeted teleports. The exact world selector names come from the server configuration.
 
