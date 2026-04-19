@@ -1,6 +1,6 @@
 # Anchors & Utility Commands
 
-[Player index](README.md) · [Homes](homes.md) · [Warps & Portals](warps-portals.md) · [Random Teleport](rtp.md) · [TPA](tpa.md)
+[Player index](../README.md) · [Homes](homes.md) · [Warps & Portals](warps-portals.md) · [Random Teleport](rtp.md) · [TPA](tpa.md)
 
 This section covers the core Anchors command tree plus the general travel utilities that sit outside homes, warps, RTP, and TPA. These commands handle saved anchor slots, forced saves, spawn travel, and back travel.
 
