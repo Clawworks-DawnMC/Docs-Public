@@ -1,6 +1,6 @@
-# DawnMC-Ember Player Documentation
+# Ember Player Documentation
 
-DawnMC-Ember handles DawnMC's upgrade stations. In this snapshot, that means the Tuner, the Forge, and Solarite attunement behavior tied to upgraded items.
+Ember handles DawnMC's upgrade stations. In this snapshot, that means the Tuner, the Forge, and Solarite behavior tied to upgraded items.
 
 ## Pages
 
