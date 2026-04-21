@@ -2,7 +2,7 @@
 
 [Player index](README.md) · [Getting Started](getting-started.md) · [Actionbar and History](actionbar-history.md)
 
-These are the normal player-facing Bloom commands.
+These are the normal Bloom player commands.
 
 | Command | What it does |
 |---|---|
