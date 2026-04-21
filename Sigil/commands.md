@@ -2,7 +2,7 @@
 
 [Player index](README.md) · [Themes](themes.md) · [Profiles](profiles.md)
 
-These are the normal player-facing Sigil commands.
+These are the normal Sigil player commands.
 
 | Command | What it does |
 |---|---|
