@@ -1,6 +1,6 @@
 # Public Documentation
 
-This section is player-facing. It covers only the commands, systems, and behavior normal players need to understand.
+DawnMC public documentation only the commands, systems, and behavior normal players need to understand.
 
 ## Plugin index
 
@@ -11,3 +11,5 @@ This section is player-facing. It covers only the commands, systems, and behavio
 | Ember | Item tuning and forge upgrades | [Open](Ember/README.md) |
 | Keystone | Utility-suite project status for players | [Open](Keystone/README.md) |
 | Sigil | Personal UI themes, colors, symbols, and profile tools | [Open](Sigil/README.md) |
+
+Further sections will be created as more documentation is written.
