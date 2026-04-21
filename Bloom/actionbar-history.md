@@ -14,7 +14,7 @@ Example format:
 +0.25 Bits
 ```
 
-Your server can change:
+The server can change:
 
 - whether actionbars are enabled globally
 - how often they flush
