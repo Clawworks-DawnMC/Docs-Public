@@ -1,6 +1,6 @@
 # Public Documentation
 
-DawnMC public documentation only the commands, systems, and behavior normal players need to understand.
+DawnMC public documentation has only the commands, systems, and behavior normal players need to understand.
 
 ## Plugin index
 
