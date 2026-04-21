@@ -13,3 +13,5 @@ Common inputs include:
 - a base item
 - a forge core
 - a crystal or other catalyst
+
+Current recipes are available in the DawnMC Discord.
