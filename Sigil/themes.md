@@ -30,3 +30,5 @@ Sigil lets you switch your personal UI theme when you have permission to use tha
 - `sakura`
 - `ruby`
 - `mintcircuit`
+
+More themes will be available in future updates.
