@@ -15,7 +15,7 @@ Bloom may pay you for:
 - smelting items
 - staying active online over time
 
-Your server can change the exact payout values, categories, and limits.
+The server can change the exact payout values, categories, and limits.
 
 ## What you do not need to do
 
@@ -31,7 +31,7 @@ Bloom works automatically while you play.
 
 ## What can stop a payout
 
-Your server may block payouts in some situations, such as:
+The server may block payouts in some situations, such as:
 
 - specific worlds
 - creative or spectator mode
