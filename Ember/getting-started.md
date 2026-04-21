@@ -2,7 +2,7 @@
 
 [Player index](README.md) · [Tuner](tuner.md) · [Forge](forge.md)
 
-DawnMC-Ember is a station-based upgrade system. You use special GUIs to convert or improve items instead of crafting everything in a normal table.
+Ember is a station-based upgrade system. You use special GUIs to convert or improve items instead of crafting everything in a normal table.
 
 ## Main systems
 
